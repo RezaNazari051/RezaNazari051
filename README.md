@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi!
+
+I am Reza Nazari, a Flutter developer focused on mobile app development. With over a year of experience in this field, I possess the ability to design beautiful and efficient user interfaces and implement complex features in applications.
+
+My goal is to deliver exceptional and practical mobile applications that provide users with a unique experience.
 
 <!--
 **RezaNazari051/RezaNazari051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
