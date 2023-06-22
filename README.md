@@ -5,7 +5,7 @@ I am Reza Nazari, a Flutter developer focused on mobile app development. With ov
 
 My goal is to deliver exceptional and practical mobile applications that provide users with a unique experience.
 
-<-- <img src="https://b2n.ir/u29091" wdth="150"/>
+ <img src="https://b2n.ir/u29091" wdth="150"/>
 
 
 <div style="display: flex;"> 
